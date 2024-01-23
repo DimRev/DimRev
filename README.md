@@ -15,7 +15,6 @@
 
 ## LANGUAGES AND TECHNOLOGIES
 [<img title="BABEL" alt="BABEL" width="40px" height="40px" src="https://res.cloudinary.com/dkvliixzt/image/upload/v1705957249/babel-svgrepo-com_j2jg4w.svg" />](https://babeljs.io/)
-[<img title="Quasar" alt="Quasar" width="40px" height="40px" src="https://www.svgrepo.com/show/306629/quasar.svg" />](https://quasar.dev/)
 [<img title="CSS" alt="CSS" width="40px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" />](https://www.w3schools.com/css/)
 [<img title="EXPRESS" alt="EXPRESS" width="40px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" />](https://expressjs.com/)
 [<img title="GIT" alt="GIT"  width="40px" height="40px" src="https://res.cloudinary.com/dkvliixzt/image/upload/v1705957283/github-142-svgrepo-com_2_fygu3n.svg" />](https://git-scm.com/)
