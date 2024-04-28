@@ -83,7 +83,7 @@ Got it, let's revise that:
 
 ![DimRev Github Stats](https://github-readme-stats.vercel.app/api?username=DimRev&show_icons=true&theme=transparent)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DimRev&theme=dark&hide_border=true)</br>
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dimrev)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dimrev)](https://github.com/dimrev)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dimrev)](https://github.com/dimrev)
 
 ## 🏆 GitHub Trophies
