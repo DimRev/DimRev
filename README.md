@@ -9,6 +9,9 @@ Got it, let's revise that:
 - 📚 Always eager to learn and innovate.
 - 📫 You can reach me at dimarev444@gmail.com
 
+## 🔥 Projects:
+[![go-cli-form](https://img.shields.io/badge/GO_CLI_FORM-555555.svg?style=for-the-badge&logo=github&logoColor=%black)](https://github.com/DimRev/go-cli-form)
+
 ## 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dimrev/)
