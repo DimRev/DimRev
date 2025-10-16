@@ -93,6 +93,7 @@
   ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4.svg?style=for-the-badge&logo=googlecloud&logoColor=white)
   ![Vercel](https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
   ![Render](https://img.shields.io/badge/Render-46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
+  ![Fly.io](https://img.shields.io/badge/Fly.io-8B5CF6.svg?style=for-the-badge&logo=fly.io&logoColor=white)
   
 - #### OTHER TECH
   ![Socket.io](https://img.shields.io/badge/Socket.io-010101.svg?style=for-the-badge&logo=socketdotio&logoColor=white)
